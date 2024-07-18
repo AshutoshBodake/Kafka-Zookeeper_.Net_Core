@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JvgeAonconVpRXo9IbGtRtvAOiFdSKIbn3JvWzS4q2ThsdZBbEysIe6ULMEjK1RlgvwpJ8PaLLeMpLhBxnP2Yg==",
+  "success": true,
+  "projectFilePath": "D:\\Git Apps 18\\Kafks wit .net core\\DotnetKafkaConsumer-master\\KafkaConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\confluent.kafka\\2.0.2\\confluent.kafka.2.0.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\librdkafka.redist\\2.0.2\\librdkafka.redist.2.0.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
